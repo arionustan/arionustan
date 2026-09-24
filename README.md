@@ -6,6 +6,7 @@
 
 Разрабатываю сайты и веб-приложения под ключ — от структуры и вёрстки до базы данных, интеграций, деплоя и поддержки после запуска.
 
+[![Портфолио](https://img.shields.io/badge/Портфолио-OPEN-2B7FFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arionustan.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alinur-stakhan-86076b25b)
 [![Email](https://img.shields.io/badge/Email-WRITE-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alinur.stakhan.2005@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-MESSAGE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/77475184698)
@@ -62,6 +63,8 @@
 
 > Исходный код клиентских проектов закрыт по договорённости с заказчиками — репозитории приватные.
 > Показать работу вживую, провести по коду и разобрать архитектуру могу на созвоне.
+
+**Сайт-портфолио с услугами, процессом работы и контактами:** **[arionustan.github.io/portfolio](https://arionustan.github.io/portfolio/)**
 
 ---
 
@@ -130,6 +133,7 @@ AI-ассистированную разработку (Claude Code, Cursor) и�
 
 Напишите — обсудим задачу, сроки и стоимость. Отвечаю быстро, оценку даю бесплатно.
 
+[![Портфолио](https://img.shields.io/badge/arionustan.github.io/portfolio-2B7FFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arionustan.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/alinur.stakhan.2005@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alinur.stakhan.2005@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/+7_747_518--46--98-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/77475184698)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alinur-stakhan-86076b25b)
